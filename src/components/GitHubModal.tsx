@@ -93,9 +93,9 @@ git push -u origin main`;
             <div className="p-4 rounded-xl bg-gradient-to-r from-orange-950/40 via-neutral-900 to-neutral-900 border border-orange-500/30 flex items-start gap-3.5">
               <FolderGit2 className="w-5 h-5 text-orange-400 shrink-0 mt-0.5" />
               <div>
-                <h4 className="font-semibold text-orange-200">AI Studio Direct Export Option</h4>
+                <h4 className="font-semibold text-orange-200">GitHub Repository Deployment</h4>
                 <p className="text-xs text-neutral-300 mt-1 leading-relaxed">
-                  You can also click the <strong>Settings (⚙️) menu</strong> at the top right of Google AI Studio and select <strong>"Export to GitHub"</strong> or <strong>"Download ZIP"</strong> for immediate repository synchronization.
+                  Follow the step-by-step instructions below to initialize Git and push this project to your GitHub account.
                 </p>
               </div>
             </div>
