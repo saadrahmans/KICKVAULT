@@ -1,0 +1,6 @@
+{
+  "name": "KICKVAULT - Sneaker Selling Store",
+  "description": "A premier online sneaker marketplace featuring curated drops, verified authenticity, multi-angle product showcases, interactive shopping cart, and secure validated checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
